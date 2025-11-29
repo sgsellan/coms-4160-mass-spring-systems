@@ -38,7 +38,7 @@ inline bool read_json(
 #include <igl/massmatrix.h>
 #include <igl/edges.h>
 #include <igl/list_to_matrix.h>
-#include <igl/polygon_mesh_to_triangle_mesh.h>
+#include "polygon_mesh_to_triangle_mesh.h"
 #include <igl/png/readPNG.h>
 #include <json.hpp>
 inline bool read_json(
